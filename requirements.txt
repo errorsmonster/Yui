@@ -1,6 +1,6 @@
 pyrogram
 TgCrypto
-openai
+openai==0.28
 aiohttp
 python-arq
 heroku3
